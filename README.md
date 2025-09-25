@@ -13,7 +13,7 @@ The investigation then shifted to the device's bash scripts. A file was discover
 
 After extensive googleing and with the help of AI, a working code was finally obtained for the generation of both the `Operator` and `sztozed (test user)` passwords.
 
-It is **important** to note that the device tested had *firmware (version 1.23)* which was observed to block test user access if the device was in user mode, based on the file present in device. Given that most Sri Lankan operators' firmware is not updated and assuming every TOZED device has the same `tozed_param - config ver. S12U-SC001-v3.26UP`  file, there is a chance that the generated passwords could work on other devices.
+It is **important** to note that the device tested had *firmware (version 1.23)* which was observed to block test user access if the device was in user mode, based on the file present in device. Given that most operators' firmware is not updated and assuming every TOZED device has the same `tozed_param - config ver. S12U-SC001-v3.26UP`  file, there is a chance that the generated passwords could work on other devices.
 
 Also the tozed_param file had checksum file that had 16 bit hash. 
 
