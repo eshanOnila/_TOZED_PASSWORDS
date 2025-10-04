@@ -17,4 +17,4 @@ It is **important** to note that the device tested had *firmware (version 1.23)*
 
 Also the tozed_param file had checksum file that had 16 bit hash. 
 
-# Again, This case study was done solely out of curiosity and for the joy of discovery. No commercial interest or illegal actions are being promoted.
+## Again, This case study was done solely out of curiosity and for the joy of discovery. No commercial interest or illegal actions are being promoted.
