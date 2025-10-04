@@ -1,3 +1,4 @@
+rust-tool/src/
 rust-tool/target/
 rust-tool/target/debug/rust-tool
 rust-tool/target/debug/rust-tool.d
